@@ -1,2 +1,58 @@
-# hotstar-clone
-A front-end clone of Disney+ Hotstar built with HTML, CSS, and JavaScript.
+# 🎬 Disney+ Hotstar Clone
+
+This is a responsive front-end clone of the **Disney+ Hotstar** streaming platform, built using HTML, CSS, and JavaScript. The project replicates the look and feel of the original platform with custom UI components such as navigation, carousels, movie cards, and video previews.
+
+---
+
+## 📁 Project Structure
+
+project-folder/
+│
+├── index.html # Main landing page
+├── style.css # Styling for all sections
+├── script.js # JavaScript for carousel and interactivity
+│
+├── /images # All logos, banners, and poster images
+├── /videos # Background videos for brand cards
+
+---
+
+## 🚀 Features
+
+- ✅ Navigation bar with logo, menu, search, and login
+- ✅ Hero section (carousel) with sliding banners *(currently commented)*
+- ✅ Brand cards with background preview video on hover
+- ✅ Dynamic movie card section (Recommended, Popular, New Releases)
+- ✅ Buttons to scroll movie carousels
+- ✅ Responsive layout
+- ✅ Footer with useful links and download buttons
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Positioning)
+- JavaScript (DOM Manipulation)
+
+---
+
+## 🔧 How to Run
+
+1. **Download or Clone the Repository**  
+   ```bash
+   git clone https://github.com/kavita355321/hotstar-clone.git
+2. Open the Project
+   Navigate to the folder and open index.html in any web browser.
+
+---
+
+## 👩‍💻 About Me
+
+**Kavita**
+💼 BSc Hons. Computer Science | Delhi University  
+📫 Email: kavita355321@gmail.com  
+📍 New Delhi, India
+
+
+
