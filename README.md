@@ -6,14 +6,12 @@ This is a responsive front-end clone of the **Disney+ Hotstar** streaming platfo
 
 ## 📁 Project Structure
 
-📁 disney-plus-clone/
-│
-├── index.html                # Main HTML file
-├── style.css                 # CSS styling file
-├── script.js                 # JavaScript functionality
-│
-├── 📁 images/              
-├── 📁 videos/             
+hotstar-clone
+→ index.html
+→ style.css
+→ script.js
+→ images
+→ videos
 
 ---
 
